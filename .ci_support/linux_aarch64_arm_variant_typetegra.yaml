@@ -1,5 +1,7 @@
 alsa_lib:
 - '1.2'
+arm_variant_type:
+- tegra
 c_compiler:
 - gcc
 c_compiler_version:
@@ -35,7 +37,7 @@ nspr:
 nss:
 - '3'
 target_platform:
-- linux-64
+- linux-aarch64
 xz:
 - '5'
 zip_keys:
