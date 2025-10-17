@@ -41,17 +41,17 @@ Current build status
                 </a>
               </td>
             </tr><tr>
-              <td>linux_aarch64_arm_variant_typesbsa</td>
+              <td>linux_aarch64_arm_variant_typesbsac_stdlib_version2.17</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=19740&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/nsight-compute-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_aarch64_arm_variant_typesbsa" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/nsight-compute-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_aarch64_arm_variant_typesbsac_stdlib_version2.17" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>linux_aarch64_arm_variant_typetegra</td>
+              <td>linux_aarch64_arm_variant_typetegrac_stdlib_version2.28</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=19740&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/nsight-compute-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_aarch64_arm_variant_typetegra" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/nsight-compute-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_aarch64_arm_variant_typetegrac_stdlib_version2.28" alt="variant">
                 </a>
               </td>
             </tr><tr>
